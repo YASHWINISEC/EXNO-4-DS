@@ -166,7 +166,6 @@ import seaborn as sns
 tips=sns.load_dataset('tips')
 tips.head()
 
-
 ![Screenshot 2024-10-08 112000](https://github.com/user-attachments/assets/12470544-0bea-426e-ba43-66af2b46e3a2)
 
 
